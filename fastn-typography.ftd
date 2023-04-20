@@ -59,20 +59,20 @@ headingtitle: $display-type.types.heading-large
 
 -- heading-box: \$inherited.types.heading-medium
 line-height: 44
-size: 32
-weight: 600
+size: 30
+weight: 700
 headingtitle: $display-type.types.heading-medium
 
 -- heading-box: \$inherited.types.heading-small
 line-height: 36
-size: 24
+size: 25
 weight: 500
 headingtitle: $display-type.types.heading-small
 
 -- heading-box: \$inherited.types.heading-tiny
 line-height: 26
 size: 20
-weight: 300
+weight: 500
 headingtitle: $display-type.types.heading-tiny
 
 -- heading-box: \$inherited.types.copy-large
@@ -83,8 +83,8 @@ headingtitle: $display-type.types.copy-large
 
 -- heading-box: \$inherited.types.copy-regular
 line-height: 20
-size: 16
-weight: 400
+size: 20
+weight: 300
 headingtitle: $display-type.types.copy-regular
 
 -- heading-box: \$inherited.types.copy-small
