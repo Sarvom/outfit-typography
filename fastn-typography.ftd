@@ -77,8 +77,8 @@ headingtitle: $display-type.types.heading-tiny
 
 -- heading-box: \$inherited.types.copy-large
 line-height: 24
-size: 16
-weight: 500
+size: 20
+weight: 300
 headingtitle: $display-type.types.copy-large
 
 -- heading-box: \$inherited.types.copy-regular
