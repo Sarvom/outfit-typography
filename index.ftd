@@ -271,17 +271,17 @@ mobile: $heading-large-mobile
 
 -- ftd.type heading-medium-mobile:
 line-height.px: 44
-size.px: 32
+size.px: 30
 letter-spacing.px: 0
-weight: 600
+weight: 700
 font-family: $outfit-assets.fonts.Outfit
 
 -- ftd.type heading-medium-desktop:
 line-height.px: 44
-size.px: 32
+size.px: 30
 letter-spacing.px: 0
 font-family: $outfit-assets.fonts.Outfit
-weight: 600
+weight: 700
 
 -- ftd.responsive-type heading-medium:
 desktop: $heading-medium-desktop
@@ -293,14 +293,14 @@ mobile: $heading-medium-mobile
 
 -- ftd.type heading-small-mobile:
 line-height.px: 36
-size.px: 24
+size.px: 25
 letter-spacing.px: 0
 weight: 500
 font-family: $outfit-assets.fonts.Outfit
 
 -- ftd.type heading-small-desktop:
 line-height.px: 36
-size.px: 24
+size.px: 25
 letter-spacing.px: 0
 weight: 500
 font-family: $outfit-assets.fonts.Outfit
@@ -340,7 +340,7 @@ mobile: $heading-tiny-mobile
 line-height.px: 28
 size.px: 20
 letter-spacing.px: 0
-weight: 400
+weight: 300
 font-family: $outfit-assets.fonts.Outfit
 
 -- ftd.type copy-large-desktop:
@@ -348,7 +348,7 @@ line-height.px: 28
 size.px: 20
 letter-spacing.px: 0
 font-family: $outfit-assets.fonts.Outfit
-weight: 400
+weight: 300
 
 -- ftd.responsive-type copy-large:
 desktop: $copy-large-desktop
@@ -360,17 +360,17 @@ mobile: $copy-large-mobile
 
 -- ftd.type copy-regular-mobile:
 line-height.px: 24
-size.px: 16
+size.px: 20
 letter-spacing.px: 0
-weight: 400
+weight: 300
 font-family: $outfit-assets.fonts.Outfit
 
 -- ftd.type copy-regular-desktop:
 line-height.px: 24
-size.px: 16
+size.px: 20
 letter-spacing.px: 0
 font-family: $outfit-assets.fonts.Outfit
-weight: 400
+weight: 300
 
 -- ftd.responsive-type copy-regular:
 desktop: $copy-regular-desktop
